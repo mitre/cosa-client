@@ -1,0 +1,17 @@
+{
+  "name": "cosa-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The MITRE Corporation",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "string-template": "^1.0.0",
+    "yargs": "^17.3.1"
+  }
+}
