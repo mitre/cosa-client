@@ -25,11 +25,7 @@ node client.js SYSTEM_IN_COSA  -s runtime
 
 ## NOTICE  
 
-Approved for Public Release; Distribution Unlimited. Case Number  21-3449.
-
-## NOTICE  
-
-MITRE hereby grants express written permission to use, reproduce, distribute, modify, and otherwise leverage this software to the extent permitted by the licensed terms provided in the LICENSE.md file included with this project.
+see [NOTICE.md](./NOTICE.md) for MITRE legal notice and public release statement.
 
 ## NOTICE  
 
