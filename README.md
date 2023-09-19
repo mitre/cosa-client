@@ -1,3 +1,5 @@
+# COSA Client  
+
 This is the source code to the COSA client application which communicates with the COSA API server.
 
 This is the application that must be installed and configured on the system that will be performing scans. Usually, this is your Continuous Integration/ Continuous Deployment (CI/CD) server.  However, there are other acceptable configurations, such as a quality assurance/testing server.
@@ -15,21 +17,21 @@ The first parameter is the system name. It must match a system as configured in 
 The second parameter (optional) sets the "stage". By default, COSA defines 3 stages: image, runtime, and build. The default
 is build which is a static, build-time scan.
 
-examples:
+### Examples:
 ```bash
 node client.js SYSTEM_IN_COSA 
 node client.js SYSTEM_IN_COSA  -s runtime
 ```
 
+## NOTICE  
 
-
-NOTICE
 Approved for Public Release; Distribution Unlimited. Case Number  21-3449.
 
-NOTICE
+## NOTICE  
+
 MITRE hereby grants express written permission to use, reproduce, distribute, modify, and otherwise leverage this software to the extent permitted by the licensed terms provided in the LICENSE.md file included with this project.
 
-NOTICE
+## NOTICE  
 
 This software was produced for the U. S. Government under Contract Number 75FCMC18D0047, and is subject to Federal Acquisition Regulation Clause 52.227-14, Rights in Data-General.  
 
