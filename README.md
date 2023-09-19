@@ -23,9 +23,13 @@ node client.js SYSTEM_IN_COSA
 node client.js SYSTEM_IN_COSA  -s runtime
 ```
 
-## NOTICE  
+## MITRE Public Release
 
-see [NOTICE.md](./NOTICE.md) for MITRE legal notice and public release statement.
+see [NOTICE.md](./NOTICE.md) for MITRE public release statements.
+
+## LICENSE
+
+see [LICENSE.md](./LICENSE.md) for MITRE license statements.
 
 ## NOTICE  
 
